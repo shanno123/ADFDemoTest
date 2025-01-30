@@ -1,0 +1,9 @@
+{
+	"name": "ADFdemoGit123",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a87634e4-2b7d-4de7-a125-bd4dbe54a319",
+		"tenantId": "7bd81e1c-f315-44c3-ad2e-c1f1993c0b2d"
+	}
+}
